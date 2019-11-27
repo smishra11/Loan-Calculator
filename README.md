@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# git-github
-trail
-=======
-# Loan-Calculator
+ Loan-Calculator
 A simple calculator for calculating loan details.
->>>>>>> a9d4651dbccf60eba99c8e2fdd191987351e887c
+
+![image](https://user-images.githubusercontent.com/53392598/69744490-49294800-1166-11ea-8cc5-27e5f1617e66.png)
